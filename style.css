@@ -1,62 +1,4 @@
-/*
-Theme Name: Amlogistic | Transportation & Logistics HTML Template
-Author: Arklogics
-Author URI: https://themeforest.net/user/Arklogics
-Version: 1
-Description: Base theme for HTML5
-Text Domain: base
-Tags: one-column, two-columns, three-columns
-Theme URI: http://www.htmlbeans.com/html/amlogistic/
-*/
-/*------------------------------------------------------------------
 
-1. import files / import files
-2. Body / body
-3. Wrapper / #wrapper
-4. Header / #header
-5. Socail Network / .socail-network
-6. Logo / .logo
-7. Nav / #nav
-8. Nav Active / .nav-active
-9. Main / #main
-10. Main Slider / .main-slider
-11. Breadcrumbs / .breadcrumbs
-12. Btn Primary / .btn-primary
-13. Heading / .heading
-14. Heading2 / .heading2
-15. Service Sec / .service-sec
-16. Tracking Sec / .tracking-sec
-17. News Sec / .news-sec
-18. Call To Action / .call-to-action
-19. Counter Holder / .counter-holder
-20. Contact Sec / .contact-sec
-21. Quote Form / .quote-form
-22. Contact List / .contact-list
-23. Testimonail Sec / .testimonail-sec
-24. Testimonail Slider / .testimonail-slider
-25. Testimonail Slider2 / .testimonail-slider2
-26. About Sec / .about-sec
-27. Abt Detail / .abt-detail
-28. Blog Slider / .blog-slider
-29. Client Sec / .client-sec
-30. Popup Holder / .popup-holder
-31. Newsletter Block / .newsletter-block
-32. Error Page / .error-page
-33. Faq Sec / .faq-sec
-34. Service Detail / .service-detail
-35. Twocolumns / .twocolumns
-36. Content / #content
-37. Sidebar / #sidebar
-38. Comments Block / .comments-block
-39. Comment Form / .comment-form
-40. Widget / .widget
-41. Content Sec / .content-sec
-42. Map Sec / .map-sec
-43. Footer / #footer
-44. Back Top / #back-top
-45. Loader Holder / .loader-holder
-
--------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 1. import files / import files
 -------------------------------------------------------------------*/
@@ -89,6 +31,7 @@ body {
   margin: 0;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+  font-family: 'Poppins', sans-serif;
 }
 
 body.pattern1 {
@@ -632,7 +575,7 @@ a:hover, a:focus, a.active {
 }
 
 .main-slider .slide h1 {
-  font: 48px/24px "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 48px/24px 'Poppins', sans-serif;
   color: #fff;
   font-weight: 900;
   margin: 0 0 31px;
@@ -646,7 +589,7 @@ a:hover, a:focus, a.active {
 }
 
 .main-slider .slide .sub-title {
-  font: 24px/26px "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 24px/26px 'Poppins', sans-serif;
   color: #cccccc;
   font-weight: 400;
   display: block;
