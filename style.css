@@ -715,7 +715,7 @@ a:hover, a:focus, a.active {
   font-size: 30px;
   line-height: 32px;
   color: #121f36;
-  font-weight: 700;
+  font-weight: 500;
   margin: 0 0 60px;
 }
 
@@ -3195,3 +3195,10 @@ a:hover, a:focus, a.active {
 .loader-holder img {
   width: 80px;
 }
+
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }

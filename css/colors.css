@@ -51,7 +51,7 @@
 .content-sec .contact-form .btn-primary:hover,
 .comment-form .contact-form .btn-primary:hover,
 .tracking-sec.style2 .track-form .btn-primary:hover {
-  color: #3caee9; }
+  color: #ff8d00; }
 
 #back-top,
 .btn-primary:hover,
@@ -67,7 +67,7 @@
 .comment-form .contact-form .btn-primary,
 .testimonail-sec .testimonail-slider .slick-dots button:hover,
 .testimonail-sec .testimonail-slider .slick-dots .slick-active button {
-  background: #3caee9; }
+  background: #ff8d00; }
 
 .btn-primary,
 .btn-primary:hover,
@@ -75,4 +75,4 @@
 .btn-primary.active:hover,
 .widget .side-nav a:hover,
 .newsletter-block .newsletter-form .form-control {
-  border-color: #3caee9; }
+  border-color: #ff8d00; }
